@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Data Engineer | AI Enthusiast
+
+Building robust data pipelines and exploring the world of Data Science & AI.
+
+- 🛠️ Data Engineering & ETL
+- 🧠 Machine Learning & Deep Learning
+- 📈 Big Data Analytics
+- 🐍 Python | SQL | Cloud Technologies
+
+Let's build something amazing with data!
